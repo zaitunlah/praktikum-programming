@@ -1,5 +1,8 @@
 print('praktikum-1')
-
+# 051
+# 048
+# 055
+# 058
 print('Nama Lengkap: Nama Lengkap')
 print('NIM         : 6002201014')
 print('Prodi       : Matematika')
@@ -49,6 +52,8 @@ p=10
 q=5
 hasil = p*q
 print('Hasil',p,'*',q,'=',hasil)
+
+
 
 
 
