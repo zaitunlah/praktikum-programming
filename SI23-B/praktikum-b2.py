@@ -137,14 +137,4 @@ print('not',b,'adalah =',hasil)
 
 
 
-
-
-
-
-
-
-
-
-
-
 print('\n'*2)
