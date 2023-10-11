@@ -1,0 +1,17 @@
+{
+  "workbench.colorTheme": "Noctis Sereno",
+  "workbench.iconTheme": "vscode-icons",
+  "window.zoomLevel": -0.5,
+  "editor.fontSize": 23,
+  "terminal.integrated.fontSize": 15,
+  "prettier.printWidth": 240,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.showSlider": "always",
+  "editor.wordWrap": "on",
+  "[latex]": {
+    "editor.defaultFormatter": "James-Yu.latex-workshop"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "git.openRepositoryInParentFolders": "never"
+}
