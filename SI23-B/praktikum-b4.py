@@ -13,9 +13,9 @@ print('-'*sp)
 print(nama.center(sp))
 print(nim.center(sp))
 print('\n'*2)
-print(prodi.rjust(sp)+f'\r{meet}')
+print(prodi.rjust(sp) + f'\r{meet}')
 # print(prodi.rjust(sp))
-print(email.rjust(sp)+f'\r{tgl}')
+print(email.rjust(sp) + f'\r{tgl}')
 print('-'*sp)
 
 paragraf = '''Halo, selamat datang perkenalkan nama saya {} dengan NIM {} dari prodi {}. Ini adalah file {}.'''
