@@ -1,8 +1,8 @@
 {
   "workbench.colorTheme": "Noctis Sereno",
   "workbench.iconTheme": "vscode-icons",
-  "window.zoomLevel": -1,
-  "editor.fontSize": 32,
+  "window.zoomLevel": -0.7,
+  "editor.fontSize": 22,
   "terminal.integrated.fontSize": 15,
   "prettier.printWidth": 240,
   "editor.formatOnSave": true,

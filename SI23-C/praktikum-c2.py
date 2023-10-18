@@ -1,0 +1,1 @@
+print('TUGAS 2')
