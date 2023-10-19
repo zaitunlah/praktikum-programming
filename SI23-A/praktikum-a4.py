@@ -61,6 +61,8 @@ data[5].append(2)
 # Mata kuliah 7: Matkul7 dengan jumlah .. sks
 # Mata kuliah 8: Matkul8 dengan jumlah .. sks
 
+# Tambahkan 8 nilai masing-masing
+
 print(data[0][0])
 print(data[-1][0])
 print(data[2][0:])
