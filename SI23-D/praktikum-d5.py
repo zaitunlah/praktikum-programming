@@ -8,7 +8,7 @@ limit = 10
 while a:
     i +=1         #i = i+1
     if i <= limit:
-        print('Selamat Bergabung',limit + 1 -i)
+        print('Selamat Bergabung',i)
     else:
-        print('Program berhenti di sini !!!!!!!')
+        print('Program berhenti di sini !!!')
         a = False
