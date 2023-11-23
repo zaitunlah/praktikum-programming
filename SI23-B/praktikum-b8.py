@@ -1,7 +1,7 @@
 import os
 os.system('clear')
 
-pwd_benar = 'si23b'
+pwd_benar = 'si23a'
 a = True
 i = 0
 limit = 3
