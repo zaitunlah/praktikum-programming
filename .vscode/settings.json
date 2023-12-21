@@ -3,7 +3,7 @@
   "workbench.iconTheme": "vscode-icons",
   "window.zoomLevel": -1.7,
   "editor.fontSize": 23,
-  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontSize": 29,
   "prettier.printWidth": 240,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
